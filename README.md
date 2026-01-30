@@ -151,7 +151,7 @@ public static List<T> Filter<T>(this List<T> records, Func<T, bool> func)
 - Understanding when queries actually execute
 - One-to-one (`Join`) vs one-to-many (`GroupJoin`) relationships
 
-📁 [View LINQExample_1 README](./LINQExample_1/README.md)
+📁 [View LINQExample_1 README](https://github.com/KartikZCoding/csharp-LINQ-basics-to-advance/blob/59f55e018d5803209a85c1774581da3cd80d63b5/LINQExample_1/README.md)
 
 ---
 
@@ -173,7 +173,7 @@ public static List<T> Filter<T>(this List<T> records, Func<T, bool> func)
 - Filtering heterogeneous collections with `OfType<T>`
 - Difference between `GroupBy` (deferred) and `ToLookup` (immediate)
 
-📁 [View LINQExample_2 README](./LINQExample_2/README.md)
+📁 [View LINQExample_2 README](https://github.com/KartikZCoding/csharp-LINQ-basics-to-advance/blob/59f55e018d5803209a85c1774581da3cd80d63b5/LINQExample_2/README.md)
 
 ---
 
@@ -200,7 +200,7 @@ public static List<T> Filter<T>(this List<T> records, Func<T, bool> func)
 - Flattening nested collections with `SelectMany`
 - Using `let` for query variable reuse
 
-📁 [View LINQExample_3 README](./LINQExample_3/README.md)
+📁 [View LINQExample_3 README](https://github.com/KartikZCoding/csharp-LINQ-basics-to-advance/blob/59f55e018d5803209a85c1774581da3cd80d63b5/LINQExample_3/README.md)
 
 ---
 
