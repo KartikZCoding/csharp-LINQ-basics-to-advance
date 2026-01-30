@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="LINQExample_1/LINQExample_1.csproj" Id="0ac2bb35-82e6-4a82-bf69-e13ce1b9ceb4" />
+  <Project Path="LINQExample_2/LINQExample_2.csproj" Id="57edeaef-54b5-4e7e-82e0-5680ffb3ee2b" />
+  <Project Path="LINQExample_3/LINQExample_3.csproj" Id="ef83f218-67c0-4f5b-a178-0341b2b432be" />
+  <Project Path="TCPData/TCPData.csproj" />
+  <Project Path="TCPExtentions/TCPExtentions.csproj" />
+  <Project Path="ThePretendCompanyApplication/ThePretendCompanyApplication.csproj" />
+</Solution>
